@@ -13,6 +13,8 @@ NPP 是面向南洋理工大学本科生的申请信息与互助社区。
 
 欢迎一起提问、分享经验、补充资源和参与维护！
 
+** 该文档目前暂时只包含了泛计算机专业的申请指南，后续将会拓展到不同专业 **
+
 从这里开始👇
 
 社区使用说明 -> https://github.com/ntu-npp/npp-guide/blob/main/guides/start_here.md
