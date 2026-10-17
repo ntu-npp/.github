@@ -2,12 +2,12 @@
 
 A student-led community helping NTU undergraduates navigate Master's and PhD applications.
 
-NPP 是面向南洋理工大学本科生的硕士和博士生的申请信息与互助社区。
+NPP 是面向南洋理工大学本科生的申请信息与互助社区。
 
 我们共同整理和分享：
 
 - 硕士与 PhD 申请指南
-- 项目、导师与资助信息
+- 项目与导师信息
 - NTU 学生和校友的申请经验
 - 科研准备与申请材料资源
 
